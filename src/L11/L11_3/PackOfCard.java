@@ -19,7 +19,7 @@ public class PackOfCard
 	 * a pack of cards usually contains 54 cards
 	 * 2 Jokers are excluded here
 	 */
-	private static final int totalNumber = 52;
+	private static final int TOTAL_NUMBER = 52;
 	private static final Random randomNumber = new Random();
 	
 	public PackOfCard()
@@ -27,7 +27,7 @@ public class PackOfCard
 		String[] cardFace = { "Ace", "Deuce", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Jack", "Queen", "King" };
 	    String[] cardSuit = { "Hearts", "Diamonds", "Clubs", "Spades" };
 	    
-	    pack = new Card[ totalNumber ]; //create an array of Card objects named pack for representing a pack of playing cards
+	    pack = new Card[ TOTAL_NUMBER ]; //create an array of Card objects named pack for representing a pack of playing cards
 	    currentCard = 0; //ensure the first card dealt is pack[ 0 ]
 	    
 	    //loop to represent each card in a pack of playing cards
@@ -48,7 +48,7 @@ public class PackOfCard
 		//for each card, pick another random card and swap them
 		for( int first = 0; first < pack.length; first++ )
 	    {
-	        second = randomNumber.nextInt( totalNumber ); //pick a random integer between 0 and 51
+	        second = randomNumber.nextInt( TOTAL_NUMBER ); //pick a random integer between 0 and 51
 	        temp = pack[ first ];        
 	        pack[ first ] = pack[ second ];   
 	        pack[ second ] = temp;            

@@ -6,8 +6,8 @@ public class L7_5
 {
 	public static void main( String[] args )
 	{
-		final int arrayLength = 10; //declare a constant
-		int[] array = new int[ arrayLength ];
+		final int ARRAY_LENGTH = 10; //declare a constant
+		int[] array = new int[ ARRAY_LENGTH ];
 		
 		System.out.printf( "%s%8s\n", "Index", "Value" );
 		

@@ -11,13 +11,13 @@ public enum Book
 	book5( "Visual Basic 2008: How to Program", "2009" ),
 	book6( "Visual C# 2008: How to Program", "2009" );
 	
-	private final String title;
-	private final String copyrightYear;
+	private final String TITLE;
+	private final String COPYRIGHT_YEAR;
 	
-	Book( String title, String copyrightYear )
+	Book( String TITLE, String COPYRIGHT_YEAR )
 	{
-		this.title = title;
-		this.copyrightYear = copyrightYear;
+		this.TITLE = TITLE;
+		this.COPYRIGHT_YEAR = COPYRIGHT_YEAR;
 	} //end constructor Book
 	
 	/**
@@ -26,7 +26,7 @@ public enum Book
 	 */
 	public String getTitle()
 	{
-		return title;
+		return TITLE;
 	} //end method getTitle
 	
 	/**
@@ -35,6 +35,6 @@ public enum Book
 	 */
 	public String getCopyrightYear()
 	{
-		return copyrightYear;
+		return COPYRIGHT_YEAR;
 	} //end method getCopyrightYear
 } //end enum Book

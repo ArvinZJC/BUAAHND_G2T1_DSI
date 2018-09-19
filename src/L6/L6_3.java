@@ -22,7 +22,7 @@ public class L6_3
 		Lose;
 	} //end enum Status
 	
-	private static final int win1 = 7, win2 = 11, lose1 = 2, lose2 = 3, lose3 = 7, lose4 = 12; //statements like "String x" and "case 7" can be used instead of "enum" and "final int" in this program, which are just for practising using new things
+	private static final int WIN1 = 7, WIN2 = 11, LOSE1 = 2, LOSE2 = 3, LOSE3 = 7, LOSE4 = 12; //statements like "String x" and "case 7" can be used instead of "enum" and "final int" in this program, which are just for practising using new things
 	
 	public static void main( String[] args )
 	{
@@ -33,18 +33,18 @@ public class L6_3
 	    switch( sum )
 	    {
 	    //win with 7 on the first roll
-	    case win1:
+	    case WIN1:
 	    //win with 11 on the first roll
-	    case win2:
+	    case WIN2:
 	        status = Status.Win;
 	        break;
 	        
 	    //lose with 2 on the first roll
-	    case lose1:
+	    case LOSE1:
 	    //lose with 3 on the first roll
-	    case lose2:
+	    case LOSE2:
 	    //lose with 12 on the first roll
-	    case lose4:
+	    case LOSE4:
 	        status = Status.Lose;
 	        break;
 	        
@@ -63,7 +63,7 @@ public class L6_3
 	        if( sum == point )
 	          status = Status.Win;
 	        //lose by rolling a 7 before making the point
-	        else if( sum == lose3 )
+	        else if( sum == LOSE3 )
 	          status = Status.Lose;
 	    } //end while
 	    
