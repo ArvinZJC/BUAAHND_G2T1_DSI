@@ -22,7 +22,7 @@ public class L8_4
 		System.out.printf( "\n%s %d\n%s %d\n\n", "The lowest grade:", getMin( gradeArray ), "The highest grade:", getMax( gradeArray ) ); //call the specified methods to output the lowest grade and the highest grade
 		
 		OutputBarChart( gradeArray ); //call the specified method to output the grade distribution chart of all grades on all tests
-	} //end method main
+	} //end main
 	
 	/**
 	 * Get the lowest grade.

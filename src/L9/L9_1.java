@@ -12,7 +12,7 @@ public class L9_1
 		System.out.printf( "The average of number1 and number2: %.1f\n", getAverage( number1, number2 ) ); //call the specified method to calculate the average of number1 and number2
 		System.out.printf( "The average of number1, number2 and number3: %.1f\n", getAverage( number1, number2, number3 ) ); //call the specified method to calculate the average of number1, number2 and number3;
 		System.out.printf( "The average of number1, number2, number3 and number4: %.1f\n", getAverage( number1, number2, number3, number4 ) ); //call the specified method to calculate the average of number1, number2, number3 and number4;
-	} //end method main
+	} //end main
 	
 	/***
 	 * Get the average of numbers.

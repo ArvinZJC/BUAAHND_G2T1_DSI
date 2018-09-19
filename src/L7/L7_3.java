@@ -17,5 +17,5 @@ public class L7_3
 		//output each array element's value
 		for( int counter = 0; counter < array.length; counter++ )
 			System.out.printf( "%5d%8d\n", counter, array[ counter ] );
-	} //end method main
+	} //end main
 } //end class L7_3

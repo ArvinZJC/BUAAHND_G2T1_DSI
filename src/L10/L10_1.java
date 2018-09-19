@@ -41,5 +41,5 @@ public class L10_1
 
 	    fileWritten.close(); //close the file associated with the program to avoid resource leak
 	    input.close(); //close "input" to avoid resource leak
-	} //end method main
+	} //end main
 } //end class L10_1

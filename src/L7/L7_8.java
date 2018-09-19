@@ -23,5 +23,5 @@ public class L7_8
 		//output each array element's value
 		for( int face = 1; face < frequency.length; ++face )
 			System.out.printf( "%-8d%d\n", face, frequency[ face ] );
-	} //end method main
+	} //end main
 } //end class L7_8

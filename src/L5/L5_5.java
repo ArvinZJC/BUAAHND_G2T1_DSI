@@ -26,7 +26,7 @@ public class L5_5
 		System.out.println( "The max: " + result );
 		
 		input.close(); //close "input" of class Scanner to avoid resource leak
-	} //end method main
+	} //end main
 	
 	/**
 	 * Determine the max of 3 numbers.

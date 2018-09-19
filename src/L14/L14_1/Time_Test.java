@@ -33,5 +33,5 @@ public class Time_Test
 	    System.out.println( "\nTime 6:\n" +
                             "  24-hour format: " + time6.toString_24HourFormat() +
                             "\n  12-hour format: " + time6.toString_12HourFormat() );
-	} //end method main
+	} //end main
 } //end class Time_Test

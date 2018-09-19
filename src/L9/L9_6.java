@@ -42,5 +42,5 @@ public class L9_6
 			System.out.println( "The first 5 characters of str3 and str4 match with case ignored." );
 		else
 			System.out.println( "The first 5 characters of str3 and str4 do not match even with case ignored." );
-	} //end method main
+	} //end main
 } //end class L9_6

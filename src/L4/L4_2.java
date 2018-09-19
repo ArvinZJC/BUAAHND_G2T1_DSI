@@ -38,5 +38,5 @@ public class L4_2
 			System.out.println( "Error! No grades were entered." );
 		
 		input.close(); //close "input" of class Scanner to avoid resource leak
-	} //end method main
+	} //end main
 } //end class L4_2

@@ -57,5 +57,5 @@ public class LS1_E1
 		System.out.printf( "Miles per gallon of all: %.2f\n", milePerGallon_All );
 		
 		input.close(); //close "input" of class Scanner to avoid resource leak
-	} //end method main
+	} //end main
 } //end class LS1_E1

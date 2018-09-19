@@ -21,5 +21,5 @@ public class L6_1
 	        if( counter % 5 == 0 ) //if counter is divisible by 5, start a new line of output
 	          System.out.println();
 	    } //end for
-	} //end method main
+	} //end main
 } //end class L6_1

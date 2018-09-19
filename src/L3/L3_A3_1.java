@@ -22,5 +22,5 @@ public class L3_A3_1
 			else
 				number += 1;
 		} //end while
-	} //end method main
+	} //end main
 } //end class L3_A3_1

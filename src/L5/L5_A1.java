@@ -20,5 +20,5 @@ public class L5_A1
 			System.out.println( "It is not a positive integer." );
 		
 		input.close(); //close "input" of class Scanner to avoid resource leak
-	} //end method main
+	} //end main
 } //end class L5_A1

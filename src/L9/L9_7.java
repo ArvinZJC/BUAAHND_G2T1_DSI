@@ -29,5 +29,5 @@ public class L9_7
 			if( str.endsWith( "ed" ) )
 				System.out.printf( "\"%s\" ends with \"ed\".\n", str );
 		} //end for
-	} //end method main
+	} //end main
 } //end class L9_7

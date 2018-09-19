@@ -11,5 +11,5 @@ public class L9_9
 	    System.out.printf( "str1: %s\nstr2: %s\n\n", str1, str2 );
 	    System.out.printf( "str1.concat( str2 ): %s\n", str1.concat( str2 ) );
 	    System.out.printf( "str1 after concatenation: %s\n", str1 );
-	} //end method main
+	} //end main
 } //end class L9_9

@@ -11,5 +11,5 @@ public class GradeBook_Test
 	    
 	    System.out.println( "The initial course name of Grade Book 1: " + book1.getCourseName() +
 	    		            "\nThe initial course name of Grade Book 2: " + book2.getCourseName() ); //call the specified method in class GradeBook to display the initial course name of each grade book
-	} //end method main
+	} //end main
 } //end class GradeBook_Test

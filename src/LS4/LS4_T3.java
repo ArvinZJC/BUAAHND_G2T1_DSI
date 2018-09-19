@@ -9,7 +9,7 @@ public class LS4_T3
 	public static void main( String[] args )
 	{
 		CreateUsername(); //call the specified method to create a username
-	} //end method main
+	} //end main
 	
 	/**
 	 * Create a username.

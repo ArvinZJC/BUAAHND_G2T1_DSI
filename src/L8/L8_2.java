@@ -25,7 +25,7 @@ public class L8_2
 		ModifyElement( array[ 3 ] ); //call the specified method to attempt to modify array[ 3 ]
 		
 		System.out.printf( "array[ 3 ] after calling method ModifyElement: %d\n", array[ 3 ] );
-	} //end method main
+	} //end main
 	
 	/**
 	 * Modify an array.

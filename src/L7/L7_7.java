@@ -26,5 +26,5 @@ public class L7_7
 			
 			System.out.println();
 		} //end for
-	} //end method main
+	} //end main
 } //end class L7_7

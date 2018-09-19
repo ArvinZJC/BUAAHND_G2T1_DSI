@@ -18,7 +18,7 @@ public class L7_1
 		Field();
 		
 		System.out.printf( "\nThe value of the local variable \"x\" in method main: %d\n", x );
-	} //end method main
+	} //end main
 	
 	/**
 	 * Create and initialise the local variable "x".

@@ -24,5 +24,5 @@ public class L9_5
 			System.out.print( character + "  " );
 		
 		System.out.println();
-	} //end method main
+	} //end main
 } //end class L9_5

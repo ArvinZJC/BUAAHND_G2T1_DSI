@@ -24,5 +24,5 @@ public class L9_11
 	    System.out.printf( "Type float: %s\n", String.valueOf( value5 ) ); 
 	    System.out.printf( "Type double: %s\n", String.valueOf( value6 ) ); 
 	    System.out.printf( "An object: %s\n", String.valueOf( reference ) );
-	} //end method main
+	} //end main
 } //end class L9_11

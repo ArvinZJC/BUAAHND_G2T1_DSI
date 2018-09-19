@@ -19,7 +19,7 @@ public class L8_3
 		System.out.println( "Values in the array named array2 by row:" );
 		
 		OutputArray( array2 ); //call the specified method to display array2 by row
-	} //end method main
+	} //end main
 	
 	/**
 	 * Output a 2-dimensional array by row.

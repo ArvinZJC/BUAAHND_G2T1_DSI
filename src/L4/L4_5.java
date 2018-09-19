@@ -14,5 +14,5 @@ public class L4_5
 			System.out.printf( "%d ", counter );
 		
 		System.out.println();
-	} //end method main
+	} //end main
 } //end class L4_5

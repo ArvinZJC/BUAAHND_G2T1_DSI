@@ -46,7 +46,7 @@ public class LS2_E6
 		} //end while
 		
 		input.close(); //close "input" of class Scanner to avoid resource leak
-	} //end method main
+	} //end main
 	
 	/**
 	 * Calculate the Celsius equivalent of a Fahrenheit temperature.

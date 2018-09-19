@@ -21,5 +21,5 @@ public class Book_Test
 	    //loop to print the first 4 books in enum type Book
 	    for( Book book : EnumSet.range( Book.book1, Book.book4 ) )
 	    	System.out.printf( "  %-5s%-45s%s\n", book, book.getTitle(), book.getCopyrightYear() );
-	   } //end method main
+	   } //end main
 } //end class Book_Test

@@ -72,5 +72,5 @@ public class L5_1
 			System.out.println( "No grades were entered." );
 		
 		input.close(); //close "input" of class Scanner to avoid resource leak
-	} //end method main
+	} //end main
 } //end class L5_1

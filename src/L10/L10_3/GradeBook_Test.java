@@ -23,5 +23,5 @@ public class GradeBook_Test
 	    
 	    book.OutputMessage(); //call the specified method in class GradeBook to output a welcome message after specifying the course name
 	    input.close(); //close "input" to avoid resource leak
-	} //end method main
+	} //end main
 } //end class GradeBook_Test

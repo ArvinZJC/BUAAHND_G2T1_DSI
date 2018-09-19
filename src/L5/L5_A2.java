@@ -33,7 +33,7 @@ public class L5_A2
 		} //end while
 		
 		input.close(); //close "input" of class Scanner to avoid resource leak
-	} //end method main
+	} //end main
 	
 	/**
 	 * Determine the max of 3 numbers.

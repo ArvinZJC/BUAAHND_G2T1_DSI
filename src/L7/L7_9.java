@@ -17,5 +17,5 @@ public class L7_9
 		//output each array element's value
 		for( int rating = 1; rating < frequency.length; rating++ )
 			System.out.printf( "%6d%10d\n", rating, frequency[ rating ] );
-	} //end method main
+	} //end main
 } //end class L7_9

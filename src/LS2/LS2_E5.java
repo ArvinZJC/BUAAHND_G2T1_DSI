@@ -19,7 +19,7 @@ public class LS2_E5
 		DisplaySquare( sideLength ); //call the specified method to display a square of asterisks
 		
 		input.close(); //close "input" of class Scanner to avoid resource leak
-	} //end method main
+	} //end main
 	
 	/**
 	 * Display a square of asterisks.

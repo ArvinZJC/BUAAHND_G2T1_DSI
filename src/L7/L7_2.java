@@ -7,7 +7,7 @@ public class L7_2
 	{
 		System.out.printf( "Square of 7: %d\n", Square( 7 ) ); //call the specified method to calculate square of an integer
 		System.out.printf( "Square of 7.5: %.2f\n", Square( 7.5 ) ); //call the specified method to calculate square of a number of type double
-	} //end method main
+	} //end main
 	
 	/**
 	 * Calculate square of an integer.

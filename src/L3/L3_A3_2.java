@@ -20,5 +20,5 @@ public class L3_A3_2
 			
 			number += 1;
 		} //end while
-	} //end method main
+	} //end main
 } //end class L3_A3_2

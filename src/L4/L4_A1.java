@@ -27,5 +27,5 @@ public class L4_A1
 		System.out.printf( "Class average: %d\n", average );
 		
 		input.close(); //close "input" of class Scanner to avoid resource leak
-	} //end method main
+	} //end main
 } //end class L4_A1

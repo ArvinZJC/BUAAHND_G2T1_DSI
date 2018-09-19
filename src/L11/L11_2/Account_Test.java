@@ -30,5 +30,5 @@ public class Account_Test
 	    System.out.printf( "     the balance of Account 2: $%.2f\n", account2.getBalance() ); //call the specified method in class Account to display the current balance of Account 2
 	    
 	    input.close(); //close "input" to avoid resource leak
-	} //end method main
+	} //end main
 } //end class Account_Test

@@ -24,7 +24,7 @@ public class L9_4
 		
 		System.out.printf( "\"red\" is%sin the list.\n", items.contains( "red" ) ? " " : " not " ); //check if a value is in the list
 		System.out.printf( "The size of the list: %d\n", items.size() ); //display the number of elements in the list
-	} //end method main
+	} //end main
 	
 	/**
 	 * Output current list contents.

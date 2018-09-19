@@ -20,5 +20,5 @@ public class L4_A3
 			
 			++year;
 		} //end while
-	} //end method main
+	} //end main
 } //end class L4_A3

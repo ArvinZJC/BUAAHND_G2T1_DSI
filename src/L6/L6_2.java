@@ -50,5 +50,5 @@ public class L6_2
 	    
 	    System.out.println( "Face\tFrequency" );
 	    System.out.printf( "1\t%d\n2\t%d\n3\t%d\n4\t%d\n5\t%d\n6\t%d\n", frequency1, frequency2, frequency3, frequency4, frequency5, frequency6 ); 
-	} //end method main
+	} //end main
 } //end class L6_2

@@ -18,5 +18,5 @@ public class L4_4
 		System.out.println( x );
 		System.out.println( x++ );
 		System.out.println( x );
-	} //end method main
+	} //end main
 } //end class L4_4

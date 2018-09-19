@@ -18,5 +18,5 @@ public class L3_2
 		System.out.println( grade >= 60 ? "PASS" : "FAIL" ); //conditional operator (?:) which is Java’s only ternary operator (operator that takes three operands) can be used in place of an if...else statement
 		
 		input.close(); //close "input" of class Scanner to avoid resource leak
-	} //end method main
+	} //end main
 } //end class L3_2

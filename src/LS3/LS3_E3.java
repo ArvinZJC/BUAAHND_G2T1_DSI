@@ -97,7 +97,7 @@ public class LS3_E3
 		} //end for
 		
 		input.close(); //close "input" of class Scanner to avoid resource leak
-	} //end method main
+	} //end main
 	
 	/**
 	 * Attempt to assign a seat in First Class.

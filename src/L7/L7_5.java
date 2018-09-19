@@ -18,5 +18,5 @@ public class L7_5
 			
 			System.out.printf( "%5d%8d\n", counter, array[ counter ] );
 		} //end for	
-	} //end method main
+	} //end main
 } //end class L7_5

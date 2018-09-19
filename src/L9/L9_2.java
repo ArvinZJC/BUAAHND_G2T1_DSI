@@ -25,5 +25,5 @@ public class L9_2
 			for( int counter = 0; counter < array.length; counter++ )
 				System.out.printf( "%5d%8d\n", counter, array[ counter ] );
 		} //end if...else
-	} //end method main
+	} //end main
 } //end class L9_2

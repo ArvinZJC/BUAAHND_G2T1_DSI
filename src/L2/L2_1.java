@@ -15,5 +15,5 @@ public class L2_1
 		System.out.println( "Double Kill!\nTrible Kill!\nQuadra Kill!\nPenta Kill!\nAce!\nKilling Spree!\nRampage" );
 		System.out.println( "Unstoppable!\nGodlike!" );
 		System.out.printf( "%s\n%s\n", "Legendary!", "Victory!" ); //the last "\n" is needed, because the cursor is usually left on a new line when a program ends
-	} //end method main
+	} //end main
 } //end class L2_1

@@ -45,7 +45,7 @@ public class LS4_T2_2
 			System.out.println( "\nError! No data is entered." );
 		
 		input.close(); //close "input" of class Scanner to avoid resource leak
-	} //end method main
+	} //end main
 	
 	/**
 	 * Output the number of files sent, the total memory size and the average memory size.

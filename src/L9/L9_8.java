@@ -22,5 +22,5 @@ public class L9_8
 	    System.out.printf( "Last \"def\" is located at Index %d.\n", str.lastIndexOf( "def" ) );
 	    System.out.printf( "Last \"def\" is located at Index %d.\n", str.lastIndexOf( "def", 25 ) );
 	    System.out.printf( "Last \"hello\" is located at Index %d.\n", str.lastIndexOf( "hello" ) );
-	} //end method main
+	} //end main
 } //end class L9_8

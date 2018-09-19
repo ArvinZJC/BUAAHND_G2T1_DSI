@@ -16,5 +16,5 @@ public class L4_8
 		} while( counter <= 10 ); //loop 10 times
 		
 		System.out.println();
-	} //end method main
+	} //end main
 } //end class L4_8

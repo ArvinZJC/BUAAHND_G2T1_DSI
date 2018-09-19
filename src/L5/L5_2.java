@@ -18,5 +18,5 @@ public class L5_2
 		} //end for
 		
 		System.out.printf( "\nBroke out of loop at counter = %d\n", counter );
-	} //end method main
+	} //end main
 } //end class L5_2

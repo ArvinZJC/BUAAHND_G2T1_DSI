@@ -16,7 +16,7 @@ public class LS4_T4_1
 		
 		OutputTimes( times ); //call the specified method to output the resultant times
 		SortTimes( times ); //call the specified method to sort and output the resultant times from fastest to slowest
-	} //end method main
+	} //end main
 	
 	/**
 	 * Output the resultant times.

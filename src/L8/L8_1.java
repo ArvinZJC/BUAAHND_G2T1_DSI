@@ -14,5 +14,5 @@ public class L8_1
 			total += number;
 		
 		System.out.printf( "Total of array elements: %d\n", total );
-	} //end method main
+	} //end main
 } //end class L8_1

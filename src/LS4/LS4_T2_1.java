@@ -10,7 +10,7 @@ public class LS4_T2_1
 		
 		OutputSizeAndNumber( size ); //call the specified method to output the memory sizes of files sent and the number of files sent
 		OutputTotalAndAverage( size ); //call the specified method to calculate and output the total memory size and the average memory size
-	} //end method main
+	} //end main
 	
 	/**
 	 * Output the memory sizes of files sent and the number of files sent.

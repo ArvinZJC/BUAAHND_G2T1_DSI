@@ -42,7 +42,7 @@ public class LS2_E1
 		System.out.printf( "The running total of yesterday's receipts: $%.2f\n", totalCharge );
 		
 		input.close(); //close "input" of class Scanner to avoid resource leak
-	} //end method main
+	} //end main
 	
 	/**
 	 * Calculate the parking charge.

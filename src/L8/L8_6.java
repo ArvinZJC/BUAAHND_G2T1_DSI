@@ -36,7 +36,7 @@ public class L8_6
 		System.out.println( "\nAfter sorting:" );
 		
 		OutputArray( array ); //call the specified method to output the array
-	} //end method main
+	} //end main
 	
 	public static void OutputArray( int[] array )
 	{

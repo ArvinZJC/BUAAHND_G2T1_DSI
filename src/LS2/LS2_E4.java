@@ -32,7 +32,7 @@ public class LS2_E4
 		} //end while
 		
 		input.close(); //close "input" of class Scanner to avoid resource leak
-	} //end method main
+	} //end main
 	
 	/**
 	 * Determine whether the statement "the integer is even" is true or false.

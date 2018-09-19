@@ -36,5 +36,5 @@ public class L4_A2
 		    
 		    input.close(); //close "input" of class Scanner to avoid resource leak
 		} //end if...else
-	} //end method main
+	} //end main
 } //end class L4_A2

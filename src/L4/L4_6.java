@@ -13,5 +13,5 @@ public class L4_6
 			total += number; //add the even integer to "total" each time
 		
 		System.out.printf( "Sum: %d\n", total );
-	} //end method main
+	} //end main
 } //end class L4_6

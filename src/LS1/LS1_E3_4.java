@@ -70,5 +70,5 @@ public class LS1_E3_4
 		} //end for
 		
 		input.close(); //close "input" of class Scanner to avoid resource leak
-	} //end method main
+	} //end main
 } //end class LS1_E3_4

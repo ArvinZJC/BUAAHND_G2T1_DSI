@@ -35,5 +35,5 @@ public class L3_A1
 			System.out.println( "You have the same age." );
 		
 		input.close(); //close "input" of class Scanner to avoid resource leak
-	} //end method main
+	} //end main
 } //end class L3_A1

@@ -22,5 +22,5 @@ public class PackOfCard_Test
 	        if( counter % 4 == 0 )
 				System.out.println();
 	    } //end for
-	} //end method main
+	} //end main
 } //end class PackOfCard_Test

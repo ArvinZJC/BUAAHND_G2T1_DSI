@@ -16,5 +16,5 @@ public class L5_3
 		} //end for
 		
 		System.out.println( "\nUsed continue to skip printing 5." );
-	} //end method main
+	} //end main
 } //end class L5_3

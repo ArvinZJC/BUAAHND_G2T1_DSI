@@ -30,5 +30,5 @@ public class L3_A2
 		} //end if...else
 		
 		input.close(); //close "input" of class Scanner to avoid resource leak
-	} //end method main
+	} //end main
 } //end class L3_A2

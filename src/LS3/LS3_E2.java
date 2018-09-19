@@ -14,7 +14,7 @@ public class LS3_E2
 		
 		System.out.println( "\n\nc) Display the five values of integer array bestScores in column format." );
 		TaskC(); //call the specified method to display the 5 values of the array named bestScores in column format
-	} //end method main
+	} //end main
 	
 	/**
 	 * Set the 10 elements of the array named counts to 0.

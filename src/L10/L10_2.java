@@ -28,5 +28,5 @@ public class L10_2
 	    } //end while
 
 	    fileRead.close(); //close the file associated with the program to avoid resource leak
-	} //end method main
+	} //end main
 } //end class L10_2

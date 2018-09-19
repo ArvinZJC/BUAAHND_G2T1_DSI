@@ -44,7 +44,7 @@ public class LS4_T4_2
 			System.out.println( "\nError! No data is entered." );
 		
 		input.close(); //close "input" of class Scanner to avoid resource leak
-	} //end method main
+	} //end main
 	
 	/**
 	 * Output the resultant times.

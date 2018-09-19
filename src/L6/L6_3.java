@@ -71,7 +71,7 @@ public class L6_3
 	      System.out.println( "Player wins." );
 	    else
 	      System.out.println( "Player loses." );
-    } //end method main
+    } //end main
 	
 	/**
 	 * Roll the dice.

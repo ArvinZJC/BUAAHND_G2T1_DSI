@@ -10,7 +10,7 @@ public class LS4_T1_1
 		
 		OutputSize( size ); //call the specified method to output the memory sizes of the files sent to the program
 		getMax( size ); //call the specified method to find and print the largest memory size
-	} //end method main
+	} //end main
 	
 	/**
 	 * Output the memory sizes of the files sent to the program.

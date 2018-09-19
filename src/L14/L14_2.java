@@ -16,7 +16,7 @@ public class L14_2
 	    } //change package-access data in the PackageAccessExample object
 	    
 	    System.out.printf( "\nAfter changing values:\n  %s\n", test );
-	} //end method main
+	} //end main
 } //end class L14_2
 
 //class with package-access instance variables can be used only by other classes in the same directory

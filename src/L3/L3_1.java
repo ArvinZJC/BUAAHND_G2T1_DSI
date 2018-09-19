@@ -31,5 +31,5 @@ public class L3_1
 			System.out.printf( "%d > %d\n", number1, number2 );
 		
 		input.close(); //close "input" of class Scanner to avoid resource leak
-	} //end method main
+	} //end main
 } //end class L3_1

@@ -43,7 +43,7 @@ public class L9_3
 			System.out.printf( "8763 is the value for Index %d in the array named array2.\n", location1 );
 		else
 			System.out.println( "There is no 8763 in the array named array2." );
-	} //end method main
+	} //end main
 	
 	/**
 	 * Output the specified array.

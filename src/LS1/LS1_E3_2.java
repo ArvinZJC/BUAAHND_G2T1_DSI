@@ -60,5 +60,5 @@ public class LS1_E3_2
 		    
 		    System.out.println();
 		} //end for
-	} //end method main
+	} //end main
 } //end class LS1_E3_2

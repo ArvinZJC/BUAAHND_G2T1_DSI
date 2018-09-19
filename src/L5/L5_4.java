@@ -10,7 +10,7 @@ public class L5_4
 				           "false && false", false, //" && false" is meaningless or dead code here because the result is confirmed at the first false
 				           "false && true", false, //" && true" is meaningless or dead code here because the result is confirmed at the first false
 				           "true && false", true && false, 
-				           "true && true", true && true ); //the format specifier "%b" displays the word “true” or “false” based on a boolean expression’s value
+				           "true && true", true && true ); //the format specifier "%b" displays the word "true" or "false" based on a boolean expression's value
 		System.out.printf( "%s\n%s: %b\n%s: %b\n%s: %b\n%s: %b\n\n", "Condition OR (||)", 
 		           "false || false", false || false, 
 		           "false || true", false || true, 
@@ -33,5 +33,5 @@ public class L5_4
 		           "true ^ false", true ^ false, 
 		           "true ^ true", true ^ true );
 		System.out.printf( "%s\n%s: %b\n%s: %b\n", "Logical NOT (!)", "! false", ! false , "! true", ! true );
-	} //end method main
+	} //end main
 } //end class L5_4

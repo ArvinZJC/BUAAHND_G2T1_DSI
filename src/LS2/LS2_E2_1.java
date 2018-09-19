@@ -19,7 +19,7 @@ public class LS2_E2_1
 			
 			System.out.printf( "%8d%10.1f%10.1f%14.1f\n", counter + 1, side1[ counter ], side2[ counter ], hypotenuse );
 		} //end for
-	} //end method main
+	} //end main
 	
 	/**
 	 * Calculate the length of the hypotenuse.

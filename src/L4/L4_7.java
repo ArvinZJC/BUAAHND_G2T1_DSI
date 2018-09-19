@@ -32,5 +32,5 @@ public class L4_7
 			 */
 			System.out.printf( "%4d%,20.2f\n", year, amount );
 		} //end for
-	} //end method main
+	} //end main
 } //end class L4_7

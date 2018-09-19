@@ -30,5 +30,5 @@ public class LS1_E4_1
 			
 			System.out.println();
 		} //end for
-	} //end method main
+	} //end main
 } //end class LS1_E4_1

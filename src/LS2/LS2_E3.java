@@ -33,7 +33,7 @@ public class LS2_E3
 		} //end while
 		
 		input.close(); //close "input" of class Scanner to avoid resource leak
-	} //end method main
+	} //end main
 	
 	/**
 	 * Determine whether the statement "the second integer is a multiple of the first integer" is true or false.
