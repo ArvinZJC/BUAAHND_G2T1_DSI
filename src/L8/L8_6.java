@@ -11,7 +11,7 @@ public class L8_6
 		
 		System.out.println( "Before sorting:" );
 		
-		OutputArray( array ); //call the specified method to output the array
+		OutputArray( array ); //call the specified method to output the specified array
 		
 		for( int i = 0; i < array.length - 1; i++ )
 		{
@@ -35,9 +35,13 @@ public class L8_6
 		
 		System.out.println( "\nAfter sorting:" );
 		
-		OutputArray( array ); //call the specified method to output the array
+		OutputArray( array ); //call the specified method to output the specified array
 	} //end main
 	
+	/**
+	 * Output the specified array
+	 * @param array the array to be output
+	 */
 	public static void OutputArray( int[] array )
 	{
 		for( int number : array )

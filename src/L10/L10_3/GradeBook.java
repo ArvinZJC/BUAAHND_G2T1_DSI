@@ -11,7 +11,7 @@ public class GradeBook
 	
 	/**
 	 * Set the course name for this grade book.
-	 * @param name
+	 * @param name the course name to be set
 	 */
 	public void setCourseName( String name )
 	{

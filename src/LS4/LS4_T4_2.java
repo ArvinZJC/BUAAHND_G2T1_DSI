@@ -48,7 +48,7 @@ public class LS4_T4_2
 	
 	/**
 	 * Output the resultant times.
-	 * @param times
+	 * @param times an array storing the resultant times
 	 */
 	public static void OutputTimes( Double[] times )
 	{
@@ -60,7 +60,7 @@ public class LS4_T4_2
 	
 	/**
 	 * Sort and output the resultant times from fastest to slowest.
-	 * @param times
+	 * @param times an array list storing the resultant times
 	 */
 	public static void SortTimes( ArrayList< Double > times )
 	{

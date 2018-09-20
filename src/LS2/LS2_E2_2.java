@@ -55,8 +55,8 @@ public class LS2_E2_2
 	
 	/**
 	 * Calculate the length of the hypotenuse.
-	 * @param side1
-	 * @param side2
+	 * @param side1 the length of Side 1
+	 * @param side2 the length of Side 2
 	 * @return the length of the hypotenuse
 	 */
 	public static double Hypotenuse( double side1, double side2 )

@@ -46,7 +46,7 @@ public class LS3_E1
 	
 	/**
 	 * Calculate the earned salary that is truncated to an integer amount.
-	 * @param sail
+	 * @param sail dollars that the salesperson grossed in sales in a week
 	 * @return the earned salary
 	 */
 	public static int CalculateSalary( double sail )
@@ -58,7 +58,7 @@ public class LS3_E1
 	
 	/**
 	 * Calculate each salary frequency.
-	 * @param salary
+	 * @param salary the salesperson's earned salary
 	 */
 	public static void CalculateFrequency( int salary )
 	{	

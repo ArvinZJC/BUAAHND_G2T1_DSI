@@ -28,8 +28,8 @@ public class L9_4
 	
 	/**
 	 * Output current list contents.
-	 * @param items
-	 * @param header
+	 * @param items items to be output
+	 * @param header the header to be output
 	 */
 	public static void OutputListContents( ArrayList< String > items, String header)
 	{

@@ -16,7 +16,7 @@ public class L9_1
 	
 	/***
 	 * Get the average of numbers.
-	 * @param sequence a variable-length argument list of type double for numbers calculated
+	 * @param sequence a variable-length argument list of type double for numbers to be calculated
 	 * @return the average of numbers
 	 */
 	public static double getAverage( double ... sequence )

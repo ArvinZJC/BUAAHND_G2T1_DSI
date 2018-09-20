@@ -20,7 +20,7 @@ public class LS4_T4_1
 	
 	/**
 	 * Output the resultant times.
-	 * @param times
+	 * @param times an array storing the resultant times
 	 */
 	public static void OutputTimes( double[] times )
 	{
@@ -32,7 +32,7 @@ public class LS4_T4_1
 	
 	/**
 	 * Sort and output the resultant times from fastest to slowest.
-	 * @param times
+	 * @param times an array storing the resultant times
 	 */
 	public static void SortTimes( double[] times )
 	{

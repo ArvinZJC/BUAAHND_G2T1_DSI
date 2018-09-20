@@ -23,7 +23,7 @@ public class L8_3
 	
 	/**
 	 * Output a 2-dimensional array by row.
-	 * @param array
+	 * @param array the array to be output
 	 */
 	public static void OutputArray( int[][] array )
 	{

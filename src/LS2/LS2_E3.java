@@ -37,8 +37,8 @@ public class LS2_E3
 	
 	/**
 	 * Determine whether the statement "the second integer is a multiple of the first integer" is true or false.
-	 * @param number1
-	 * @param number2
+	 * @param number1 the first integer to be validated
+	 * @param number2 the second integer to be validated
 	 * @return true (if the statement is true) or false (if the statement is false)
 	 */
 	public static boolean IsMultiple( int number1, int number2 )

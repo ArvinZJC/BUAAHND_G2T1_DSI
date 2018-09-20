@@ -19,7 +19,7 @@ public class Account
 	
 	/**
 	 * Add the deposit amount to the account balance
-	 * @param depositAmount
+	 * @param depositAmount the deposit amount to be added
 	 */
 	public void Deposit( double depositAmount )
 	{

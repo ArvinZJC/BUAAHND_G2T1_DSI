@@ -48,7 +48,7 @@ public class LS4_T1_2
 	
 	/**
 	 * Find and print the largest memory size.
-	 * @param size
+	 * @param size an array list storing memory sizes
 	 */
 	public static void getMax( ArrayList< Integer > size )
 	{

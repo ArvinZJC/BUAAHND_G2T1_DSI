@@ -50,7 +50,7 @@ public class LS2_E6
 	
 	/**
 	 * Calculate the Celsius equivalent of a Fahrenheit temperature.
-	 * @param F
+	 * @param F a Fahrenheit temperature to be calculated
 	 */
 	public static void Celsius( double F )
 	{
@@ -61,7 +61,7 @@ public class LS2_E6
 	
 	/**
 	 * Calculate the Fahrenheit equivalent of a Celsius temperature.
-	 * @param C
+	 * @param C a Celsius temperature to be calculated
 	 */
 	public static void Fahrenheit( double C )
 	{

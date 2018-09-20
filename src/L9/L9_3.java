@@ -47,8 +47,8 @@ public class L9_3
 	
 	/**
 	 * Output the specified array.
-	 * @param array
-	 * @param header
+	 * @param array the array to be output
+	 * @param header the header to be output
 	 */
 	public static void OutputArray( int[] array, String header )
 	{

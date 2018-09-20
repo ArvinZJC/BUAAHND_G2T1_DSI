@@ -29,7 +29,7 @@ public class L8_2
 	
 	/**
 	 * Modify an array.
-	 * @param array
+	 * @param array the array to be modified
 	 */
 	public static void ModifyArray( int[] array )
 	{
@@ -40,7 +40,7 @@ public class L8_2
 	
 	/**
 	 * Modify an array element.
-	 * @param element
+	 * @param element the element to be modified
 	 */
 	public static void ModifyElement( int element )
 	{

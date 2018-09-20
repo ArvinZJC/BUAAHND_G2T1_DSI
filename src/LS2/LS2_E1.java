@@ -46,7 +46,7 @@ public class LS2_E1
 	
 	/**
 	 * Calculate the parking charge.
-	 * @param hour
+	 * @param hour hours parked
 	 * @return the parking charge
 	 */
 	public static double CalculateCharge( double hour )

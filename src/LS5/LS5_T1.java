@@ -65,8 +65,8 @@ public class LS5_T1
 	
 	/**
 	 * Create a username.
-	 * @param firstName
-	 * @param lastName
+	 * @param firstName the first name
+	 * @param lastName the last name
 	 */
 	public static void CreateUsername( String firstName, String lastName )
 	{
@@ -77,7 +77,7 @@ public class LS5_T1
 	
 	/**
 	 * Calculate the factorial of a number.
-	 * @param number
+	 * @param number the number to be calculated
 	 */
 	public static void CalculateFactorial( int number )
 	{

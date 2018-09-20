@@ -37,9 +37,9 @@ public class L5_A2
 	
 	/**
 	 * Determine the max of 3 numbers.
-	 * @param number1
-	 * @param number2
-	 * @param number3
+	 * @param number1 one of the 3 numbers to be compared
+	 * @param number2 one of the 3 numbers to be compared
+	 * @param number3 one of the 3 numbers to be compared
 	 * @return the max of 3 numbers
 	 */
 	public static double getMax( double number1, double number2, double number3 )

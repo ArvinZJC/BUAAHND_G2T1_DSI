@@ -26,7 +26,7 @@ public class L8_4
 	
 	/**
 	 * Get the lowest grade.
-	 * @param gradeArray
+	 * @param gradeArray an array storing grades
 	 * @return the lowest grade
 	 */
 	public static int getMin( int[][] gradeArray )
@@ -50,7 +50,7 @@ public class L8_4
 	
 	/**
 	 * Get the highest grade.
-	 * @param gradeArray
+	 * @param gradeArray an array storing grades
 	 * @return the highest grade
 	 */
 	public static int getMax( int[][] gradeArray )
@@ -74,7 +74,7 @@ public class L8_4
 	
 	/**
 	 * Get the current student's average grade.
-	 * @param rowOfGradeArray
+	 * @param rowOfGradeArray a row of an array containing a student's grades
 	 * @return the current student's average grade
 	 */
 	public static double getAverage( int[] rowOfGradeArray )
@@ -93,7 +93,7 @@ public class L8_4
 	
 	/**
 	 * Output each student's grades of all the 3 tests and average grade.
-	 * @param gradeArray
+	 * @param gradeArray an array storing grades
 	 */
 	public static void OutputGrade( int[][] gradeArray )
 	{
@@ -125,7 +125,7 @@ public class L8_4
 	
 	/**
 	 * Output the grade distribution chart of all grades on all tests.
-	 * @param gradeArray
+	 * @param gradeArray an array storing grades
 	 */
 	public static void OutputBarChart( int[][] gradeArray )
 	{		

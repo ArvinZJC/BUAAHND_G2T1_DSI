@@ -14,7 +14,7 @@ public class LS4_T2_1
 	
 	/**
 	 * Output the memory sizes of files sent and the number of files sent.
-	 * @param size
+	 * @param size an array storing memory sizes
 	 */
 	public static void OutputSizeAndNumber( int[] size )
 	{
@@ -29,7 +29,7 @@ public class LS4_T2_1
 	
 	/**
 	 * Calculate and output the total memory size and the average memory size.
-	 * @param size
+	 * @param size an array storing memory sizes
 	 */
 	public static void OutputTotalAndAverage( int[] size )
 	{

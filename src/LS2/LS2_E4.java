@@ -36,7 +36,7 @@ public class LS2_E4
 	
 	/**
 	 * Determine whether the statement "the integer is even" is true or false.
-	 * @param number
+	 * @param number the number to be validated
 	 * @return true (if the statement is true) or false (if the statement is false)
 	 */
 	public static boolean IsEven( int number )

@@ -11,7 +11,7 @@ public class L7_2
 	
 	/**
 	 * Calculate square of an integer.
-	 * @param x an integer
+	 * @param x an integer to be calculated
 	 * @return square value
 	 */
 	public static int Square( int x )
@@ -23,7 +23,7 @@ public class L7_2
 	
 	/**
 	 * Calculate square of a number of type double.
-	 * @param x a number of type double
+	 * @param x a number of type double to be calculated
 	 * @return square value
 	 */
 	public static double Square( double x )

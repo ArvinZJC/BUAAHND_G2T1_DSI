@@ -49,7 +49,7 @@ public class LS4_T2_2
 	
 	/**
 	 * Output the number of files sent, the total memory size and the average memory size.
-	 * @param size
+	 * @param size an array list storing memory sizes
 	 */
 	public static void OutputResult( ArrayList< Integer > size )
 	{

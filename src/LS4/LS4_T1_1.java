@@ -14,7 +14,7 @@ public class LS4_T1_1
 	
 	/**
 	 * Output the memory sizes of the files sent to the program.
-	 * @param size
+	 * @param size an array storing memory sizes
 	 */
 	public static void OutputSize( int[] size )
 	{
@@ -29,7 +29,7 @@ public class LS4_T1_1
 	
 	/**
 	 * Find and print the largest memory size.
-	 * @param size
+	 * @param size an array storing memory sizes
 	 */
 	public static void getMax( int[] size )
 	{

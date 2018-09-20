@@ -23,7 +23,7 @@ public class LS2_E5
 	
 	/**
 	 * Display a square of asterisks.
-	 * @param sideLength
+	 * @param sideLength the lenfth of the side
 	 */
 	public static void DisplaySquare( int sideLength )
 	{

@@ -41,9 +41,9 @@ public class Time
 	
 	/**
 	 * Validate and set time.
-	 * @param hour
-	 * @param minute
-	 * @param second
+	 * @param hour hour to be validated and set
+	 * @param minute minute to be validated and set
+	 * @param second second to be validated and set
 	 */
 	public void setTime( int hour, int minute, int second )
 	{
@@ -54,7 +54,7 @@ public class Time
 	
 	/**
 	 * Validate and set hour.
-	 * @param hour
+	 * @param hour hour to be validated and set
 	 */
 	public void setHour( int hour )
 	{
@@ -63,7 +63,7 @@ public class Time
 	
 	/**
 	 * Validate and set minute.
-	 * @param minute
+	 * @param minute minute to be validated and set
 	 */
 	public void setMinute( int minute )
 	{
@@ -72,7 +72,7 @@ public class Time
 	
 	/**
 	 * Validate and set second.
-	 * @param second
+	 * @param second second to be validated and set
 	 */
 	public void setSecond( int second )
 	{
@@ -81,7 +81,7 @@ public class Time
 	
 	/**
 	 * Get hour.
-	 * @return hour
+	 * @return hour hour to be got
 	 */
 	public int getHour()
 	{
@@ -90,7 +90,7 @@ public class Time
 	
 	/**
 	 * Get minute.
-	 * @return minute
+	 * @return minute minute to be got
 	 */
 	public int getMinute()
 	{
@@ -99,7 +99,7 @@ public class Time
 	
 	/**
 	 * Get second.
-	 * @return second
+	 * @return second second to be got
 	 */
 	public int getSecond()
 	{
