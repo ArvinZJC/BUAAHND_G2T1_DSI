@@ -9,7 +9,7 @@ public class L10_2
 {
 	public static void main( String[] args ) throws Exception
 	{
-		Scanner fileRead = new Scanner( new File( "C:\\SD\\Java\\eclipse-workspace\\BUAAHND_G2T1_DSI\\src\\L10\\test_L10_2.txt" ) );
+		Scanner fileRead = new Scanner( new File( "C:\\SD\\Java\\BUAAHND_G2T1_DSI\\src\\L10\\test_L10_2.txt" ) );
 		
 		int accountNumber;
 	    double balance;
