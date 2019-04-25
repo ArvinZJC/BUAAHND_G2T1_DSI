@@ -1,4 +1,4 @@
-// program that uses Selection Sort
+// program that uses selection sort
 
 package L8;
 

@@ -1,4 +1,4 @@
-// program that uses Bubble Sort
+// program that uses bubble sort
 
 package L8;
 
