@@ -55,6 +55,6 @@ public class LS1_E1
 		System.out.println("^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^"); // these symbols are used for a better layout
 		System.out.printf("Miles per gallon of all: %.2f\n", milePerGallon_All);
 		
-		input.close(); // close "input" of class Scanner to avoid resource leak
+		input.close();
 	} // end main
 } // end class LS1_E1

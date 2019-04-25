@@ -27,6 +27,6 @@ public class LS4_T3
 		username = firstName.substring(0, 1) + lastName; // create a username from the first letter of the first name and the whole of the surname
 		System.out.println("Your username: " + username);
 		
-		input.close(); // close "input" of class Scanner to avoid resource leak
+		input.close();
 	} // end method CreateUsername
 } // end class LS4_T3

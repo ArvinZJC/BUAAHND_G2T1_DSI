@@ -26,6 +26,6 @@ public class L4_1
 		System.out.printf("\nTotal of all 10 grades: %d\n", total);
 		System.out.printf("Class average: %d\n", average);
 		
-		input.close(); // close "input" of class Scanner to avoid resource leak
+		input.close();
 	} // end main
 } // end class L4_1

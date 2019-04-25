@@ -40,7 +40,7 @@ public class LS3_E1
 		
 		OutputFrequency(); // call the specified method to output the salary distribution chart of all salespeople
 		
-		input.close(); // close "input" of class Scanner to avoid resource leak
+		input.close();
 	} // end main
 	
 	/**

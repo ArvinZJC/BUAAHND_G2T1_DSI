@@ -73,6 +73,6 @@ public class LS1_E3_3
 			System.out.println();
 		} // end for
 		
-		input.close(); // close "input" of class Scanner to avoid resource leak
+		input.close();
 	} // end main
 } // end class LS1_E3_3

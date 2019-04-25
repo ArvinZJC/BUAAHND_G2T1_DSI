@@ -47,7 +47,7 @@ public class LS1_E4_3
 			
 			System.out.println();
 			
-			input.close(); // close "input" of class Scanner to avoid resource leak
+			input.close();
 		} // end for
 	} // end main
 } // end class LS1_E4_3

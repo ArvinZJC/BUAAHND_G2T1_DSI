@@ -19,6 +19,6 @@ public class GradeBook_Test
 	    System.out.println();
 	    book.OutputMessage(); // call the specified method in class GradeBook to output a welcome message after specifying the course name
 	    
-	    input.close(); // close "input" to avoid resource leak
+	    input.close();
 	} // end main
 } // end class GradeBook_Test

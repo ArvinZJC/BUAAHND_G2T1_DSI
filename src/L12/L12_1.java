@@ -47,6 +47,6 @@ public class L12_1
 			System.out.println();
 		} // end while
 		
-		input.close(); // close "input" of class Scanner to avoid resource leak
+		input.close();
 	} // end main
 } // end class L12_1

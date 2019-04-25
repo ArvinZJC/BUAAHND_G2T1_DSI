@@ -26,6 +26,6 @@ public class L3_3
 			else
 				System.out.println("F");
 		
-		input.close(); // close "input" of class Scanner to avoid resource leak
+		input.close();
 	} // end main
 } // end class L3_3

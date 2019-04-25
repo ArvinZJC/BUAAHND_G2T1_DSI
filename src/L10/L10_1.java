@@ -38,7 +38,7 @@ public class L10_1
 	        	System.out.println("Error! Account number must be greater than 0. Data in the previous line will not be recorded.");
 	    } // end while
 
-	    fileWritten.close(); // close the file associated with the program to avoid resource leak
-	    input.close(); // close "input" to avoid resource leak
+	    fileWritten.close(); // close the file associated with the program to avoid resource leak or any other problem
+	    input.close();
 	} // end main
 } // end class L10_1

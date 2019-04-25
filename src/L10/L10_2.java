@@ -26,6 +26,6 @@ public class L10_2
 	        System.out.printf("%-10d%-12s%-12s%10.2f\n", accountNumber, firstName, lastName, balance);
 	    } // end while
 
-	    fileRead.close(); // close the file associated with the program to avoid resource leak
+	    fileRead.close();
 	} // end main
 } // end class L10_2

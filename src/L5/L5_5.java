@@ -22,7 +22,7 @@ public class L5_5
 		result = getMax(number1, number2, number3);
 		System.out.println("The max: " + result);
 		
-		input.close(); // close "input" of class Scanner to avoid resource leak
+		input.close();
 	} //end main
 	
 	/**

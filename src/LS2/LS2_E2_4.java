@@ -49,6 +49,6 @@ public class LS2_E2_4
 		    System.out.println();
 		} // end while
 		
-		input.close(); // close "input" of class Scanner to avoid resource leak
+		input.close();
 	} // end main
 } // end class LS2_E2_4

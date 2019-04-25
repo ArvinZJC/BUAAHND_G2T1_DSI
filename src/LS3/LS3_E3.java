@@ -92,7 +92,7 @@ public class LS3_E3
 		    } // end if...else
 		} // end for
 		
-		input.close(); // close "input" of class Scanner to avoid resource leak
+		input.close();
 	} // end main
 	
 	/**

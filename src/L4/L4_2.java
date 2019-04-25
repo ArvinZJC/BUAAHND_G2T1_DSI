@@ -28,7 +28,7 @@ public class L4_2
 		// execute the following code block if the user enters at least 1 grade
 		if (count != 0)
 		{
-			average = (double) total / count; // the unary cast operator "(double)" which performs explicit conversion creates a temporary floating-point copy of its operand.
+			average = (double)total / count; // the unary cast operator "(double)" which performs explicit conversion creates a temporary floating-point copy of its operand.
 			
 			System.out.printf("\nTotal of the %d grades entered: %d\n", count, total);
 			System.out.printf("Class average: %.2f", average);
@@ -36,6 +36,6 @@ public class L4_2
 		else
 			System.out.println("Error! No grades were entered.");
 		
-		input.close(); // close "input" of class Scanner to avoid resource leak
+		input.close();
 	} // end main
 } // end class L4_2

@@ -21,6 +21,6 @@ public class L2_2
 
         System.out.printf("\nSum: %d\n", sum); // this can also be written as "System.out.printf("\n%s%d.\n", "Sum: ", sum);"
         
-        input.close(); // close "input" of class Scanner to avoid resource leak
+        input.close(); // close "input" of class Scanner to avoid resource leak or any other problems
     } // end main
 } // end class L2_2

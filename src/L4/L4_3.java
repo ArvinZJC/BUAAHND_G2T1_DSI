@@ -30,6 +30,6 @@ public class L4_3
 		if (pass >= 9)
 			System.out.println("Bonus to the instructor!");
 		
-		input.close(); // close "input" of class Scanner to avoid resource leak
+		input.close();
 	} // end main
 } // end class L4_3

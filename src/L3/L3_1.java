@@ -29,6 +29,6 @@ public class L3_1
 		if (number1 > number2)
 			System.out.printf("%d > %d\n", number1, number2);
 		
-		input.close(); // close "input" of class Scanner to avoid resource leak
+		input.close();
 	} // end main
 } // end class L3_1

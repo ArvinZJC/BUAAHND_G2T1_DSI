@@ -16,7 +16,7 @@ public class LS2_E5
 		System.out.println();
 		DisplaySquare(sideLength); // call the specified method to display a square of asterisks
 		
-		input.close(); // close "input" of class Scanner to avoid resource leak
+		input.close();
 	} // end main
 	
 	/**

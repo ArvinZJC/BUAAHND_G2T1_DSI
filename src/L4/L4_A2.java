@@ -28,12 +28,12 @@ public class L4_A2
 				grade = input.nextInt();
 			} while (grade != -1); // loop until the sentinel value (-1) is entered
 			
-			average = (double) total / count;
+			average = (double)total / count;
 			
 		    System.out.printf("\nTotal of the %d grades entered: %d\n", count, total);
 		    System.out.printf("Class average: %.2f", average);
 		    
-		    input.close(); // close "input" of class Scanner to avoid resource leak
+		    input.close();
 		} // end if...else
 	} // end main
 } // end class L4_A2

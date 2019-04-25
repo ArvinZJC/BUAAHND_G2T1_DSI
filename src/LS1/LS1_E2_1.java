@@ -61,6 +61,6 @@ public class LS1_E2_1
 		System.out.println("\nItem 1    Item 2    Item 3    Item 4    Earnings");
 		System.out.printf("%6d%10d%10d%10d    $%.2f\n", amount1, amount2, amount3, amount4, earnings);
 		
-		input.close(); // close "input" of class Scanner to avoid resource leak
+		input.close();
 	} // end main
 } // end class LS1_E2_1

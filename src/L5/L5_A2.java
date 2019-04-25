@@ -31,7 +31,7 @@ public class L5_A2
 		    System.out.println("********************************************************************"); // these asterisks are used for a better layout
 		} // end while
 		
-		input.close(); // close "input" of class Scanner to avoid resource leak
+		input.close();
 	} //end main
 	
 	/**

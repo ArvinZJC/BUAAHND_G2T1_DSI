@@ -41,7 +41,7 @@ public class LS2_E1
 		System.out.println("^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^-^"); // these symbols are used for a better layout
 		System.out.printf("The running total of yesterday's receipts: $%.2f\n", totalCharge);
 		
-		input.close(); // close "input" of class Scanner to avoid resource leak
+		input.close();
 	} // end main
 	
 	/**
