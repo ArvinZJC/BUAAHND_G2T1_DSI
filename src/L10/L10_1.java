@@ -9,7 +9,7 @@ public class L10_1
 {
 	public static void main(String[] args) throws Exception
 	{
-		Formatter fileWritten = new Formatter("C:\\SD\\Java\\BUAAHND_G2T1_DSI\\src\\L10\\test_L10_1.txt");
+		Formatter fileWritten = new Formatter("D:\\SD\\Java\\BUAAHND_G2T1_DSI\\src\\L10\\test_L10_1.txt");
 	    Scanner input = new Scanner(System.in);
 	    int accountNumber;
 	    double balance;
